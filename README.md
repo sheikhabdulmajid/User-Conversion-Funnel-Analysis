@@ -4,7 +4,7 @@ Analyzed the conversion of users from one checkpoint to another within the regis
 Problem Statement: Evaluate an e-commerce startup app to determine which touchpoint causes most users to leave. Analyze the funnel health.
 
 Approach: 
-Used SQL and Python to implement logic designed to find customers at each touch point on the Toyota App
+Used SQL and Python to implement logic designed to find customers at each touch point on the app
 Evaluated the funnel health using SQL with visualizations with Python
 
 Outcome:
